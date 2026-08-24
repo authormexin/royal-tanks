@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://royaltanks.co.ke/sitemap.xml
+
+# Trigger Cloudflare deployment for SEO assets
